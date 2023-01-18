@@ -1,0 +1,29 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .one {
+    background: pink;
+    border: 3px solid black;
+   
+    text-align: center;
+    padding: 80px;
+    margin: 24px;
+  }
+  
+  .two {
+    background: lightblue;
+    border: 3px solid black;
+    /* CAMBIAR */
+    margin-bottom: 48px;
+  }
+  
+  .three {
+    background: peachpuff;
+    border: 3px solid black;
+    width: 200px;
+    text-align: center;
+    padding: 50px;
+    margin-left: 400px;
+  }

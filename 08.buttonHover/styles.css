@@ -1,0 +1,17 @@
+#transition-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: 1.3s;
+}
+
+button {
+  border-radius: 8px;
+  border: none;
+  background-color: #2563eb;
+  color: white;
+  font-size: 18px;
+  padding: 16px 24px;
+  text-align: center;
+}
